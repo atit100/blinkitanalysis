@@ -1,7 +1,7 @@
 This is the end to end Data analysis of Blinkit data ,Blinkit is a hyper local grocery delivery service app.
 STEPS IN THE PROJECT
 - BUSINESS REQUIREMENT
-- -DATA WALKTHROUGH
+- DATA WALKTHROUGH
 - DATA CONNECTION
 - QUALITY CHECK
 - DATA MODELLING
